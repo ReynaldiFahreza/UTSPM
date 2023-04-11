@@ -34,7 +34,7 @@ class AppRoutes {
     }
     return MaterialPage(
       child: HomeScreen(
-        user: user,
+
       ),
     );
   }
@@ -45,7 +45,6 @@ class AppRoutes {
   ) {
     return MaterialPage(
       child: NewsDetailScreen(
-        id: state.params["id"]!,
       ),
     );
   }
