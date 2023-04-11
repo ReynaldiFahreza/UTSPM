@@ -24,12 +24,12 @@ class AppRoutes {
     } else {
       user = User(
         id: 002,
-        name: "Permata",
-        username: "permata",
-        email: "permata@email.com",
+        name: "Irpan reynadi radiansyah",
+        username: "kelompok ",
+        email: "2006012@itg.ac.id",
         profilePhoto:
-            "https://i.pinimg.com/originals/06/87/a8/0687a8ac12eee878f87ddfa8f0cc66d8.jpg",
-        phoneNumber: "085111123456",
+            "https://i.ibb.co/ZfFg6LN/ucing.jpg",
+        phoneNumber: "082255446677",
       );
     }
     return MaterialPage(
